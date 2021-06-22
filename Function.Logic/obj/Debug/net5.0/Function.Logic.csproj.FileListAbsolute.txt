@@ -1,0 +1,12 @@
+D:\Programm proects\Function.Logic\obj\Debug\net5.0\Function.Logic.csprojAssemblyReference.cache
+D:\Programm proects\Function.Logic\obj\Debug\net5.0\Function.Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programm proects\Function.Logic\obj\Debug\net5.0\Function.Logic.AssemblyInfoInputs.cache
+D:\Programm proects\Function.Logic\obj\Debug\net5.0\Function.Logic.AssemblyInfo.cs
+D:\Programm proects\Function.Logic\obj\Debug\net5.0\Function.Logic.csproj.CoreCompileInputs.cache
+D:\Programm proects\Function.Logic\bin\Debug\net5.0\Function.Logic.deps.json
+D:\Programm proects\Function.Logic\bin\Debug\net5.0\Function.Logic.dll
+D:\Programm proects\Function.Logic\bin\Debug\net5.0\ref\Function.Logic.dll
+D:\Programm proects\Function.Logic\bin\Debug\net5.0\Function.Logic.pdb
+D:\Programm proects\Function.Logic\obj\Debug\net5.0\Function.Logic.dll
+D:\Programm proects\Function.Logic\obj\Debug\net5.0\ref\Function.Logic.dll
+D:\Programm proects\Function.Logic\obj\Debug\net5.0\Function.Logic.pdb
